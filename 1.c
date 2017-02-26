@@ -4,6 +4,9 @@
 int main()
 {
     int num=10;
-    printf("%d",num);
-    printf("%d");
+<<<<<<< HEAD
+   
+=======
+   
+>>>>>>> dev
 }
