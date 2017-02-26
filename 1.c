@@ -5,4 +5,5 @@ int main()
 {
     int num=10;
     printf();
+    take maendtrdh 
 }
